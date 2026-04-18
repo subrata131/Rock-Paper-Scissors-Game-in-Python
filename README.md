@@ -49,5 +49,3 @@ Score -> You:0 | Computer:1 | Draws:0
 
 ---
 
-💡 Simple project, but a great way to practice Python basics and logic building.
-Next step: Add GUI or multiplayer mode 😄
